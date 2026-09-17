@@ -1,6 +1,5 @@
-import random
+import random 
 
-
-num=random.randint(1000,9999)
+num=random.randint(1000,2033)
 
 print(num)
