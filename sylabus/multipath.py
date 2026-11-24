@@ -1,3 +1,6 @@
+# from base class to two derived class and then that two create another one class
+
+
 class Student:
     def name(self):
         print("name...")
